@@ -1,2 +1,5 @@
 # US_Medical_insurance_costs
  Codecademy Data Analyst Career Path, Python Portfolio Project
+by Ginger Steggles
+
+I have a Mathematics background, but it has been over 20 years since I have done any Statistics, and even then it was elementary. I have not yet had a chance to review the subject of Statistics in my Data Analyst learning journey so far;  therefore, the analysis below is not statistically rigorous, and I use percentages and averages only. I have also only learned basic Python so far, and so I do not know how to make visualisations of the analyses presented. Basically, this shows how I can import data using the csv library and save it into lists. I maybe should have saved the data into a dictionary to handle the data a bit easier, I don't know. I am still unclear when to use functions and do not have a good understanding of classes, so the use of functions is very sporadic and the use of classes is non-existent. I might come back to this project later to fix this. Anyway, it is what it is at the moment, and I welcome any feedback.
